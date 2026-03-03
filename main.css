@@ -11,6 +11,12 @@ body {
     transition: background-color 0.5s ease;
 }
 
+h1{
+    color: #1b1b1b;
+    font-size: 32px;
+    text-shadow: 3px 3px 8px #f1f0ee;
+}
+
 header {
     background-color: #222;
     color: white;
