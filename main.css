@@ -1,0 +1,51 @@
+/*
+    Archivo: styles.css
+    Descripción: Contiene los estilos visuales de la página.
+    Se aplican estilos al cuerpo, título, párrafo y botón
+    para mejorar la experiencia visual del usuario.
+*/
+
+/* Estilo general del cuerpo de la página */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    transition: background-color 0.5s ease; /* Animación suave al cambiar color */
+}
+
+/* Contenedor principal */
+.container {
+    margin-top: 100px;
+}
+
+/* Estilo del título */
+h1 {
+    color: #333;
+    font-size: 32px;
+}
+
+/* Estilo del párrafo */
+p {
+    color: #555;
+    font-size: 18px;
+}
+
+/* Estilo del botón */
+button {
+    margin-top: 20px;
+    padding: 12px 25px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease, background-color 0.3s ease;
+}
+
+/* Efecto al pasar el mouse sobre el botón */
+button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
