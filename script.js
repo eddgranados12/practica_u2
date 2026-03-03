@@ -30,14 +30,14 @@ botonColor.addEventListener("click", function () {
 
 const alumnos = [
     {
-        nombre: "Juan Pérez",
+        nombre: "Eduardo Granados",
         descripcion: "Estudiante de programación con interés en desarrollo web.",
-        foto: "https://via.placeholder.com/150/0000FF/FFFFFF?text=Juan"
+        foto: "images/eduardo.jpeg"
     },
     {
-        nombre: "María López",
+        nombre: "Carmen Arreguin",
         descripcion: "Apasionada por el diseño UI/UX y el desarrollo frontend.",
-        foto: "https://via.placeholder.com/150/FF0000/FFFFFF?text=Maria"
+        foto: "images/carmen.jpeg"
     }
 ];
 
