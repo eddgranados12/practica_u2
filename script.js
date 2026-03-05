@@ -9,7 +9,7 @@
 // CAMBIO DE COLORES
 // =========================
 
-const colores = ["#092C56", "#225688", "#668CA9", "#A9CBE0", "#FDF5F4"];
+const colores = ["#1e395a", "#225688", "#668CA9", "#A9CBE0", "#FDF5F4"];
 let indiceColor = 0;
 
 const botonColor = document.getElementById("colorButton");

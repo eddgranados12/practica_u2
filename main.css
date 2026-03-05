@@ -12,7 +12,7 @@ body {
 }
 
 h1{
-    color: #1b1b1b;
+    color: #000000;
     font-size: 32px;
     text-shadow: 3px 3px 8px #f1f0ee;
 }
@@ -21,6 +21,12 @@ header {
     background-color: #222;
     color: white;
     padding: 15px;
+}
+
+p {
+    font-size: 18px;
+    color: #000000;
+    text-shadow: 3px 3px 8px #f1f0ee;
 }
 
 .container {
